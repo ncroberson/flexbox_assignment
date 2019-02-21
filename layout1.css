@@ -1,0 +1,16 @@
+body
+{
+  display: flex;
+  flex-direction: column;
+  flex-wrap : nowrap;
+}
+
+body header
+{
+      order: 0;
+}
+
+body footer
+{
+    order:999;
+}

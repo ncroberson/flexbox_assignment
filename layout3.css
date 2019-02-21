@@ -1,0 +1,15 @@
+.flex-sub
+{
+  flex-flow: column nowrap;
+}
+
+.flex-sub main
+{
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.flex-sub main article
+{
+  flex: 1
+}
